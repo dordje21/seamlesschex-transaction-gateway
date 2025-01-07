@@ -73,7 +73,4 @@ Make sure you have the following installed:
 | `DirectPost_key`       | Seamlesschex DirectPost key    |
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Support
-For support, please contact [support@yourdomain.com](mailto:support@yourdomain.com).
+This project is licensed under the MIT License.
